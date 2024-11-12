@@ -7,13 +7,13 @@
   margin: 80px 170px;
 }
 .services-title h1 {
+  position: relative;
   text-align: center;
   font-size: 36px;
   margin-bottom: 60px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #6efaad;
-  position: relative;
 }
 .services-title h1::after {
   content: "";

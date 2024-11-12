@@ -95,7 +95,7 @@
   margin-left: 50px;
 }
 
-.about-resume a {
+.about-resume {
   color: #000;
   font-weight: 600;
 }
@@ -113,7 +113,6 @@
 
 .about-resume:hover {
   transform: scale(1.1);
-  color: white;
 }
 
 /* Media Queries */
